@@ -1,93 +1,93 @@
 Ciudad,Pais,Temp,Temp_Min,Temp_Max,Humedad,Presion,Viento,Nubosidad,Clima
-Lima,PE,20.5,18.14,20.5,83,1013,2.57,0,cielo claro
-Arequipa,PE,14.04,14.04,14.04,41,1015,0.0,0,cielo claro
-Trujillo,PE,18.98,18.98,18.98,88,1012,2.57,47,nubes dispersas
-Cusco,PE,7.13,7.13,7.13,81,1015,2.06,100,nubes
-Iquitos,PE,25.02,25.02,25.02,94,1008,1.03,75,lluvia de gran intensidad
-Piura,PE,21.36,21.36,21.36,71,1012,4.31,98,nubes
-Chiclayo,PE,19.97,19.97,19.97,88,1011,5.66,0,cielo claro
-Huancayo,PE,9.23,9.23,9.23,90,1017,0.17,100,nubes
-Tacna,PE,16.11,16.11,16.11,67,1013,1.03,0,cielo claro
-Pucallpa,PE,22.02,22.02,22.02,88,1010,2.06,75,lluvia ligera
-Buenos Aires,AR,22.78,20.82,23.3,58,1009,3.6,0,cielo claro
-Córdoba,AR,16.81,15.47,17.36,76,1010,3.09,0,cielo claro
-Rosario,AR,19.95,19.95,20.06,77,1008,3.6,0,cielo claro
-Mendoza,AR,25.74,25.74,25.74,27,1008,3.09,0,cielo claro
-Santiago,CL,19.47,16.7,21.34,70,1012,0.79,0,cielo claro
-Valparaíso,CL,12.8,12.8,12.8,100,1011,2.06,0,cielo claro
-Concepción,CL,15.89,15.89,18.41,82,1014,2.06,0,cielo claro
-Bogota,CO,12.5,11.73,12.6,98,1016,1.03,40,bruma
-Medellín,CO,17.27,17.04,18.87,91,1014,2.06,75,bruma
-Santiago de Cali,CO,18.88,18.88,21.0,83,1012,1.54,20,algo de nubes
-Cartagena,CO,26.79,26.46,26.79,89,1008,4.47,0,cielo claro
-Quito,EC,9.53,9.53,9.53,89,1015,0.62,97,nubes
-Guayaquil,EC,22.98,22.19,22.98,73,1011,6.69,75,muy nuboso
-La Paz,BO,7.99,7.99,7.99,81,1014,2.06,20,algo de nubes
-Santa Cruz de la Sierra,BO,19.7,19.7,19.7,88,1008,1.54,53,muy nuboso
-Brasília,BR,18.51,18.12,18.51,95,1011,2.06,75,muy nuboso
-São Paulo,BR,16.09,15.2,16.92,92,1015,2.57,40,nubes dispersas
-Rio de Janeiro,BR,20.98,20.98,21.0,94,1014,3.09,100,nubes
-El Salvador,SV,21.76,21.76,21.76,94,1012,0.66,86,nubes
-Caracas,VE,20.5,18.67,20.65,80,1014,1.54,60,muy nuboso
-Montevideo,UY,19.01,18.84,19.01,59,1010,2.57,0,cielo claro
-Asunción,PY,20.28,19.69,20.28,72,1009,1.03,2,cielo claro
-New York,US,2.3,-0.69,3.97,75,1023,1.54,75,muy nuboso
-Los Angeles,US,18.1,15.33,21.49,62,1014,7.2,0,niebla
-Chicago,US,3.62,2.83,4.75,84,1009,2.57,100,nubes
-Miami,US,22.76,21.68,23.34,84,1017,5.66,75,muy nuboso
-Houston,US,16.61,15.53,17.29,93,1012,3.6,100,bruma
-Toronto,CA,-0.96,-2.67,0.66,84,1019,3.58,0,cielo claro
-Vancouver,CA,6.86,5.97,7.57,87,1016,6.17,100,nubes
-Mexico City,MX,13.96,13.96,13.96,67,1015,0.0,75,muy nuboso
-Guadalajara,MX,14.04,14.04,14.04,44,1014,0.82,1,cielo claro
-Monterrey,MX,14.64,14.64,14.64,70,1014,0.78,0,cielo claro
-Madrid,ES,7.63,6.26,9.01,91,1024,2.06,20,algo de nubes
-Barcelona,ES,11.09,8.44,11.97,78,1025,4.63,20,algo de nubes
-Valencia,ES,9.12,9.12,9.12,91,1025,1.03,35,nubes dispersas
-Seville,ES,8.16,7.4,8.88,93,1023,2.24,0,cielo claro
-London,GB,11.03,10.34,11.41,94,1008,4.63,75,muy nuboso
-Manchester,GB,9.65,8.41,10.21,86,1004,2.06,20,algo de nubes
-Paris,FR,9.25,8.54,10.04,92,1017,6.17,100,nubes
-Arrondissement de Marseille,FR,6.87,6.47,7.04,96,1026,1.79,3,cielo claro
-Berlin,DE,5.07,3.88,7.21,92,1021,2.57,75,muy nuboso
-Munich,DE,2.18,0.14,3.1,95,1026,1.25,18,algo de nubes
-Hamburg,DE,5.74,5.45,6.27,90,1016,4.12,0,cielo claro
-Rome,US,7.35,5.54,8.6,62,1020,1.54,20,algo de nubes
-Milan,IT,8.82,8.21,9.65,94,1028,1.03,100,niebla
-Naples,IT,9.4,8.34,10.69,49,1028,1.54,0,cielo claro
-Amsterdam,NL,7.84,7.69,8.33,82,1013,6.71,0,cielo claro
-Brussels,BE,8.5,8.08,9.32,84,1016,6.69,20,algo de nubes
-Zurich,CH,2.18,-0.03,4.23,97,1026,1.54,100,bruma
-Vienna,AT,1.49,0.36,2.11,95,1027,2.06,75,bruma
-Lisbon,PT,9.27,8.41,11.71,90,1022,1.03,40,bruma
-Porto,PT,11.73,11.73,11.73,76,1020,7.2,0,cielo claro
-Moscow,RU,0.27,0.19,0.37,72,1017,4.28,99,nubes
-Saint Petersburg,RU,3.92,3.92,4.08,89,1012,9.0,100,nubes
-Kyiv,UA,0.72,0.72,0.72,76,1025,2.17,40,nubes dispersas
-Warsaw,PL,0.1,-0.76,1.47,91,1023,4.63,100,niebla
-Prague,CZ,1.36,0.17,2.09,96,1026,1.54,100,bruma
-Budapest,HU,3.82,3.24,4.88,95,1027,1.03,100,niebla
-Athens,GR,9.52,7.31,11.2,87,1030,0.45,37,nubes dispersas
-Istanbul,TR,4.68,4.68,4.68,87,1030,1.03,79,muy nuboso
-Tokyo,JP,13.01,12.01,13.24,34,1023,4.63,20,algo de nubes
-Osaka,JP,12.6,10.03,12.96,52,1025,3.6,40,nubes dispersas
-Seoul,KR,7.76,6.78,7.76,46,1026,1.54,0,cielo claro
-Beijing,CN,1.94,1.94,1.94,69,1017,1.05,97,nubes
-Shanghai,CN,13.92,13.92,15.92,46,1023,5.0,0,cielo claro
-Hong Kong,HK,23.27,20.53,24.1,60,1018,2.24,3,cielo claro
-Bangkok,TH,31.35,29.94,32.19,50,1012,2.74,100,nubes
-Singapore,SG,28.66,27.95,29.92,77,1008,6.69,40,nubes dispersas
-Jakarta,ID,28.13,26.61,29.61,82,1007,4.12,40,nubes dispersas
-New Delhi,IN,15.09,15.09,15.09,88,1019,1.03,20,bruma
-Mumbai,IN,29.99,29.94,29.99,32,1016,4.12,5,humo
-Dubai,AE,22.96,22.96,23.14,68,1018,3.6,40,lluvia ligera
-Riyadh,SA,9.99,9.99,9.99,63,1019,4.23,67,muy nuboso
-Sydney,AU,29.74,26.33,31.46,53,1010,9.77,55,lluvia ligera
-Melbourne,US,20.05,18.35,21.99,86,1018,4.12,0,cielo claro
-Auckland,NZ,19.61,18.56,20.17,60,1014,6.69,75,muy nuboso
-Cairo,EG,10.42,10.23,10.42,66,1027,2.57,40,nubes dispersas
-Lagos,NG,23.94,23.94,23.94,92,1010,1.49,84,muy nuboso
-Cape Town,ZA,19.68,18.23,20.77,56,1020,4.02,20,algo de nubes
-Johannesburg,ZA,16.88,16.62,17.13,94,1018,0.51,100,lluvia ligera
-Nairobi,KE,18.93,17.62,18.93,77,1017,4.63,75,muy nuboso
-Casablanca,MA,10.19,6.12,10.19,81,1022,2.06,14,algo de nubes
+Lima,PE,18.14,18.14,18.14,88,1014,2.57,75,muy nuboso
+Arequipa,PE,17.04,17.04,17.04,36,1013,2.57,0,cielo claro
+Trujillo,PE,19.98,19.98,19.98,83,1013,3.6,100,nubes
+Cusco,PE,14.13,14.13,14.13,51,1016,2.06,40,nubes dispersas
+Iquitos,PE,24.02,24.02,24.02,94,1012,1.54,100,nubes
+Piura,PE,24.03,24.03,24.03,61,1012,2.93,63,muy nuboso
+Chiclayo,PE,20.97,20.97,20.97,83,1012,5.14,0,cielo claro
+Huancayo,PE,13.7,13.7,13.7,62,1014,1.58,31,nubes dispersas
+Tacna,PE,20.11,20.11,20.11,52,1014,1.54,0,cielo claro
+Pucallpa,PE,25.02,25.02,25.02,73,1012,1.54,75,muy nuboso
+Buenos Aires,AR,28.12,27.29,29.94,49,1009,6.69,0,cielo claro
+Córdoba,AR,30.34,29.47,30.7,34,1012,5.14,0,cielo claro
+Rosario,AR,30.84,27.95,32.19,39,1008,6.17,0,cielo claro
+Mendoza,AR,26.74,26.74,26.74,22,1014,5.14,0,cielo claro
+Santiago,CL,24.13,23.36,24.67,54,1013,2.24,0,cielo claro
+Valparaíso,CL,19.3,16.8,21.53,46,1013,4.12,100,nubes
+Concepción,CL,19.89,19.89,22.86,64,1012,6.17,0,cielo claro
+Bogota,CO,13.24,13.04,14.73,88,1016,2.24,40,nubes dispersas
+Medellín,CO,19.48,19.26,20.87,84,1015,2.24,75,muy nuboso
+Santiago de Cali,CO,18.88,18.88,25.0,83,1014,1.54,40,nubes dispersas
+Cartagena,CO,29.79,29.23,29.79,66,1010,4.47,20,algo de nubes
+Quito,EC,12.53,12.53,12.53,64,1015,0.23,85,nubes
+Guayaquil,EC,26.98,24.41,26.98,57,1011,1.03,40,nubes dispersas
+La Paz,BO,13.99,13.99,13.99,62,1012,3.09,40,nubes dispersas
+Santa Cruz de la Sierra,BO,29.03,28.7,29.03,54,1012,2.57,40,nubes dispersas
+Brasília,BR,21.51,21.51,21.7,83,1015,2.57,75,muy nuboso
+São Paulo,BR,22.19,20.81,24.14,75,1017,4.12,100,nubes
+Rio de Janeiro,BR,23.76,22.97,23.98,75,1015,1.54,100,nubes
+El Salvador,SV,23.02,23.02,23.02,83,1015,0.96,92,nubes
+Caracas,VE,24.52,21.67,25.65,68,1013,6.17,38,nubes dispersas
+Montevideo,UY,30.65,29.84,30.88,41,1009,7.2,0,cielo claro
+Asunción,PY,32.36,30.69,32.36,56,1012,4.63,20,algo de nubes
+New York,US,3.3,1.2,5.19,74,1027,4.02,0,cielo claro
+Los Angeles,US,12.43,11.49,13.95,88,1014,2.57,100,bruma
+Chicago,US,8.35,7.32,8.96,94,999,10.8,100,nubes
+Miami,US,25.39,24.44,26.12,80,1017,6.69,40,nubes dispersas
+Houston,US,18.54,17.17,18.97,95,1009,4.12,75,niebla
+Toronto,CA,2.26,1.38,2.95,87,1013,4.92,0,cielo claro
+Vancouver,CA,6.5,5.71,7.57,91,1007,7.2,100,lluvia moderada
+Mexico City,MX,11.64,11.64,11.96,71,1016,0.0,40,niebla
+Guadalajara,MX,3.87,3.87,3.87,93,1020,0.0,0,cielo claro
+Monterrey,MX,10.37,9.95,10.37,81,1013,2.37,0,cielo claro
+Madrid,ES,10.51,9.51,12.03,76,1022,2.57,20,algo de nubes
+Barcelona,ES,16.0,14.19,17.14,69,1024,2.57,40,nubes dispersas
+Valencia,ES,15.23,15.23,15.23,63,1022,1.45,2,cielo claro
+Seville,ES,16.88,16.43,17.77,61,1022,1.03,0,cielo claro
+London,GB,11.33,10.87,11.98,93,1000,7.2,100,lluvia moderada
+Manchester,GB,8.89,8.19,9.35,87,997,1.54,75,lluvia moderada
+Paris,FR,14.66,14.03,15.6,64,1013,7.2,0,cielo claro
+Arrondissement de Marseille,FR,13.57,12.59,14.09,73,1024,1.79,58,muy nuboso
+Berlin,DE,9.97,8.27,10.53,84,1020,5.36,0,cielo claro
+Munich,DE,11.05,9.02,11.46,76,1023,0.45,0,cielo claro
+Hamburg,DE,9.87,9.33,10.16,78,1015,4.63,0,cielo claro
+Rome,US,11.52,10.56,12.09,86,1016,0.89,100,lluvia ligera
+Milan,IT,10.3,9.88,11.12,91,1028,2.06,100,niebla
+Naples,IT,17.01,16.53,17.34,38,1028,1.54,0,cielo claro
+Amsterdam,NL,11.1,10.47,12.21,81,1010,6.71,75,muy nuboso
+Brussels,BE,12.16,11.81,12.68,76,1012,5.66,0,cielo claro
+Zurich,CH,6.63,6.06,7.96,86,1023,1.34,94,nubes
+Vienna,AT,3.27,2.86,4.38,95,1027,2.57,75,llovizna ligera
+Lisbon,PT,16.27,15.31,17.27,79,1020,7.2,40,nubes dispersas
+Porto,PT,14.73,14.73,16.47,72,1016,10.29,75,lluvia ligera
+Moscow,RU,0.79,-0.35,1.24,68,1019,3.23,4,cielo claro
+Saint Petersburg,RU,3.36,3.36,4.08,92,1016,4.0,100,nubes
+Kyiv,UA,3.23,3.23,3.23,61,1025,2.12,88,nubes
+Warsaw,PL,3.31,2.58,4.4,93,1025,1.03,100,niebla
+Prague,CZ,2.73,1.5,3.2,93,1025,2.57,100,bruma
+Budapest,HU,4.64,4.29,5.71,97,1028,1.03,100,niebla
+Athens,GR,16.18,15.06,17.22,71,1029,1.79,0,cielo claro
+Istanbul,TR,10.09,10.09,10.68,76,1029,2.57,0,cielo claro
+Tokyo,JP,7.13,6.0,7.79,53,1027,4.63,75,muy nuboso
+Osaka,JP,3.93,3.93,5.2,81,1027,2.57,0,cielo claro
+Seoul,KR,-1.24,-2.22,-1.24,100,1025,2.06,0,cielo claro
+Beijing,CN,1.94,1.94,1.94,88,1015,1.28,20,algo de nubes
+Shanghai,CN,10.59,10.59,10.92,74,1021,5.0,0,cielo claro
+Hong Kong,HK,19.89,18.86,21.03,75,1018,5.36,85,nubes
+Bangkok,TH,27.31,27.17,28.94,60,1013,2.67,100,nubes
+Singapore,SG,26.75,25.92,26.97,86,1010,3.09,75,muy nuboso
+Jakarta,ID,25.76,24.94,26.05,88,1009,4.12,40,nubes dispersas
+New Delhi,IN,14.09,14.09,14.09,88,1017,1.03,100,bruma
+Mumbai,IN,28.99,28.99,28.99,42,1014,3.6,0,humo
+Dubai,AE,23.96,22.14,23.96,73,1011,6.17,20,algo de nubes
+Riyadh,SA,7.68,7.68,7.68,76,1020,7.86,100,nubes
+Sydney,AU,23.13,21.33,24.97,78,1010,4.63,1,cielo claro
+Melbourne,US,23.65,22.24,25.01,80,1017,3.6,100,nubes
+Auckland,NZ,16.16,15.42,16.82,61,1013,5.66,75,muy nuboso
+Cairo,EG,20.42,20.23,20.42,24,1026,7.2,0,cielo claro
+Lagos,NG,32.1,32.1,32.1,50,1009,3.91,63,muy nuboso
+Cape Town,ZA,22.19,21.62,22.93,54,1019,13.38,0,cielo claro
+Johannesburg,ZA,20.59,19.91,21.06,84,1016,2.57,100,lluvia ligera
+Nairobi,KE,24.93,24.93,25.62,41,1011,7.72,40,nubes dispersas
+Casablanca,MA,15.96,15.74,17.12,63,1021,1.54,0,cielo claro
